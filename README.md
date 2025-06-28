@@ -42,8 +42,8 @@
 ---
 
 ## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan1patel&layout=compact&theme=tokyonight)
 
-![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajan1patel&show_icons=true&theme=tokyonight)
 
 ---
 
