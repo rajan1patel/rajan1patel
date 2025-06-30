@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Rajan Patel
 
-🎓 I'm a Computer Science Engineering student at  
-**University School of Information, Communication & Technology (USICT), GGSIPU**.  
-💻 Passionate about **Full Stack Development**, I enjoy building responsive web apps and learning modern tech stacks.
+🎓 Ambitious and results-driven Computer Science student with a strong foundation in full-stack web development, including MERN stack ⚙️, ReactJS ⚛️, Node.js 🌐, and WordPress 🖥️.
+💡 Proven ability to design and implement responsive, accessible, and high-performance web applications.
+🚀 Demonstrated leadership and project management skills through academic and extracurricular initiatives, consistently delivering impactful solutions and driving engagement.
+🤝 Eager to leverage technical expertise and collaborative spirit to contribute to innovative projects.
 
 ---
 
