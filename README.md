@@ -46,22 +46,9 @@
 <!-- PROFILE VIEWS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=rajan1patel&style=for-the-badge&color=0e75b6&label=Profile%20Views)
 
-<!-- VISITOR COUNTER -->
-![Visitor Count](https://profile-counter.glitch.me/rajan1patel/count.svg)
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan1patel&show_icons=true&theme=tokyonight)
 
-<!-- MOST USED LANGUAGES -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan1patel&layout=compact&theme=tokyonight)
 
-<!-- ACTIVITY GRAPH -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajan1patel&bg_color=1a1b27&color=38bdae&line=9e4c98&point=38bdae&area=true&hide_border=true)
-
-<!-- VISITOR MAP -->
-## 🌍 Visitor Map
-![Visitor Map](https://visitcount.itsvg.in/api?id=rajan1patel&label=Visitors&color=12&icon=5&pretty=true)
 
 
 ## 📈 GitHub Stats
